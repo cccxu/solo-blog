@@ -1,4 +1,4 @@
-<p align="center"><img alt="xu's blog" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="xu's blog" src="https://avatars0.githubusercontent.com/u/33001667?v=4"></p><h2 align="center">
 xu's blog
 </h2>
 
