@@ -10,6 +10,7 @@ xu`s blog
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://cccxu.cn/my-github-repos)
 * [世界，你好！](https://cccxu.cn/hello-solo)
 
 
