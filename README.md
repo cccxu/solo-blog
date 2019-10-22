@@ -10,6 +10,7 @@ xu`s blog
 
 ### 最新
 
+* [阿里云配置记录](https://cccxu.cn/articles/2019/10/22/1571682101306.html)
 * [我在 GitHub 上的开源项目](https://cccxu.cn/my-github-repos)
 * [世界，你好！](https://cccxu.cn/hello-solo)
 
